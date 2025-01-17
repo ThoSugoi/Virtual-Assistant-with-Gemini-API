@@ -2,8 +2,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtual-assistant-chatbot.git
-   cd virtual-assistant-chatbot
+   git clone https://github.com/ThoSugoi/Virtual-Assistant-with-Gemini-API.git
+   cd fe
    ```
 
 2. Install dependencies:
@@ -15,8 +15,15 @@
    ```bash
    npm start
    ```
+   
+4. Start the backend server:
+   ```bash
+   cd be
+   pip install -r Requirement.txt
+   python server.py
+   ```
 
-4. Open your browser and navigate to `http://localhost:3000`.
+5. Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
 
